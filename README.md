@@ -9,3 +9,4 @@ Please note that the codes are written for fMRI functional networks, where the w
 
 For detailed explanations and alterations in weights, please refer to the attached PDF (efficiency) and follow the comments in the code.
 
+**Note:** Additional functions and features will be added over time.
